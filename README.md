@@ -1,5 +1,5 @@
 # dobsonfill-halley
-Run processData.m to read in Halley Dobson and overpass data, correct the satellite instruments, and fill in the record.
+Run processData.m to: read in Halley Dobson and overpass data, correct the satellite instruments, and fill in the record.
 
 The "filled dataset" folder contains downloadable .csv files
 - the "daily" dataset (31 d x 12 m x 65 yr) fills in daily averages for months where no Dobson data is available
